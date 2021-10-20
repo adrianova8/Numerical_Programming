@@ -1,2 +1,3 @@
-# Numerical_Programming
-Sprint 3. Data Structure and Control Structures
+# S03 T04: Practice with numerical programming
+
+
